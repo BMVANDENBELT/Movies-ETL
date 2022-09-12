@@ -1,2 +1,2 @@
 # Movies-ETL
-Extracting Transforming Loading 
+The challenge this week was to create an automated pipeline for data to be transformed and loaded into tables where it could be queried. Extracting, transforming, and loading. We reused code for a large part of this assignment but we had to alter it slightly for certain parts of it. We used Wiki-Data, Kaggle MetaData, and MovieLens Rating Data throughout the process of ETL-ing. Then we added it to a SQL database where we checked the output in pgAdmin4.
